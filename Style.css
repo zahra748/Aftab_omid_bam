@@ -1,0 +1,51 @@
+/* استایل حرفه‌ای سایت مرکز آفتاب امید */
+
+body {
+  font-family: tahoma, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  line-height: 1.9;
+}
+
+.header {
+  background: #ffffff;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 26px;
+  margin: 10px 0;
+  color: #333;
+}
+
+.location, .phone {
+  font-size: 18px;
+  color: #666;
+}
+
+.section {
+  background: #ffffff;
+  margin: 20px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.08);
+}
+
+.section h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  color: #444;
+}
+
+.footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 25px;
+  margin-top: 40px;
+  font-size: 15px;
+  line-height: 2;
+}
